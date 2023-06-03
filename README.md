@@ -1,1 +1,1 @@
-# Ex.-Avaliativo-AV2-Sofware-B-sico-em-C
+# Ex.-Avaliativo-AV2-Estrutura-de-dados-em-C
